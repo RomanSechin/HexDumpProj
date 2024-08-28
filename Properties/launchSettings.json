@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HexDumpProj": {
+      "commandName": "Project",
+      "commandLineArgs": "binarydata.dat"
+    }
+  }
+}
